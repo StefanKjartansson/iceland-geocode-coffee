@@ -1,0 +1,13 @@
+{
+  "name": "iceland-geocode",
+  "description": "Geocoding Icelandic Addresses",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "isn2wgs": "0.0.1",
+    "data2xml": "~0.8.0",
+    "underscore": "~1.4.4",
+    "express": "~3.1.1",
+    "request": "~2.16.6"
+  }
+}

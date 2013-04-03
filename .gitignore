@@ -1,0 +1,9 @@
+.svn*
+*~
+*.bak
+*.log
+.DS_Store
+*.db
+node_modules
+npm-debug.log
+temp/
